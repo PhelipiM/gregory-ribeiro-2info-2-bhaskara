@@ -19,6 +19,7 @@ function bhaskara(a, b, c){
         x2 = calcularX1(valorDelta, a, b)
     }
     return {x1: x1, x2: x2}
+
 }
 function handlebtnCalcular(){
     const a = parseInt(document.getElementById("valorA").value)
