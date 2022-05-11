@@ -1,20 +1,20 @@
 .main{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100px;
+  text-transform: capitalize;     
+  display: flex;
+  justify-content: center;
+  min-height: 100px;
 }
 body{
-    font-family: "Acme", sans-serif;
   font-size: 20px;
   color: #2c3e50;
-  background-color: #cfcfcf;
+  background-image: url(https://teg6.com/wp-content/uploads/2021/09/Uma-versao-Android-do-Wallpaper-Engine-estara-disponivel-em-breve.jpg);
 }
 .are_calc{
-    padding: 1em;
-  box-shadow: 6px 6px 20px rgb(0, 0, 0), -6px -6px 20px rgb(0, 0, 0);
+  padding: 1em;
+  box-shadow: 6px 6px 0px rgb(195, 0, 212);
   background-color: #f8f8f8;
   border-radius: 10px;
   margin-top: 15%;
 
 }
+
